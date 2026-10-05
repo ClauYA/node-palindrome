@@ -2,6 +2,8 @@
 
 ### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
 
+### How it looks like
+![How it looks like the app](./img/palindrome.png)
 
 ### How it works:
 - The user writes a word or phrase.
